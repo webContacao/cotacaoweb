@@ -21,7 +21,7 @@ Route::get('/', function () {
 });
 
 Route::get('/teste', function () {
-    echo "Regim";
+    echo "Vamos galOOo";
 });
 
 Route::get('/clientes','ClientesController@index');
